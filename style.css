@@ -1,0 +1,36 @@
+
+ body
+ {
+ background-image: url("Images/goutte-d-eau.jpg");
+ font-family: 'Verdana', sans-serif;
+ }
+ 
+ header
+ {
+	display:align-block;
+	margin-top:30px;
+ }
+ 
+ .home{
+	font-weight:500;
+	margin-top:40px;
+	background-color:#FAFAD2;
+	height:30px;
+	font-size:21px;
+ }
+ 
+ .home1{
+	padding-left:200px;
+}
+
+.mytext{
+	display:inline-block;
+	font-weight:400;
+	font-size:20px;
+	margin-top:40px;
+	text-align:center;
+ }
+ 
+ footer{
+	margin-top:500px
+ }
